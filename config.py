@@ -1,9 +1,9 @@
 import os
 
 
-BOT_TOKEN = 5214141627:AAEbh0W6Q07Qz6OMD-o_CrJM2oAgFVCaDvY
-API_ID = os.environ.get("9902519")
-API_HASH = os.environ.get("9d8097d05bbc90a6ed2a7a81abcd4e8a")
+BOT_TOKEN = 5579476014:AAG2EIxO6dwXW5dFiZLeXllyxeoL5telEQ4
+API_ID = os.environ.get("10181262")
+API_HASH = os.environ.get("f52b5a057b73b9974eaa7403e04907f0")
 
 
 # DATOS DEL MOODLE
